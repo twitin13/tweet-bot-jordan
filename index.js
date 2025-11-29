@@ -17,9 +17,8 @@ Shopeefood Diskon 100% s/d 35rb minbel 20K. Semua resto, akun tertentu ‼️‼
 
 Cek dan klaim di resto ini 👇
 spf.shopee.co.id/6AcdskGyBR
-spf.shopee.co.id/6AcdskGyBR
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek gratis ongkir
+t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek gratis ongkir Gary Iskak Raisa 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,4 +35,5 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher daget gojek grat
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
